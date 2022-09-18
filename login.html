@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Animated Login Form</title>
+    <link rel="stylesheet" href="login.css">
+  </head>
+  <body>
+
+<form class="box" action="index.html" method="post">
+  <h1>Se Connecter</h1>
+  <input type="text" name="" placeholder="Username" maxlenght="12" required autofocus>
+  <input type="password" name="" placeholder="Password" maxlenght="12">
+  <script>
+		var elt = document.querySelector('input');
+		console.log(elt.size);
+		elt.size = 10;
+		elt.maxLength = 3;
+	</script>
+  <input type="submit" name="" value="Login">
+</form>
+<script>
+		var elt = document.querySelector('input');
+		console.log(elt.size);
+		elt.size = 10;
+		elt.maxLength = 12;
+	</script>
+
+
+  </body>
+</html>
