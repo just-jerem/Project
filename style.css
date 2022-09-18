@@ -1,5 +1,5 @@
 @font-face {
-     font-family:'sunday-regular';
+     font-family:'Sunday-Regular';
      src: url(./fonts/Sunday-Regular.ttf);
      font-weight: bold;
 }
@@ -25,7 +25,7 @@ body{
    width:20em;
    top:2%;
    transform:translate(-50%;-50%);
-  font-family:'sunday-regular', sans-serif;
+  font-family:'Sunday-Regular', sans-serif;
 }
 .main,img{
   position:relative;
