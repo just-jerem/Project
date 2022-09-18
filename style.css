@@ -25,7 +25,7 @@ body{
    width:20em;
    top:2%;
    transform:translate(-50%;-50%);
-  font-family:'sunday-regular', sans-serif;
+  font-family:sunday-regular, sans-serif;
 }
 .main,img{
   position:relative;
