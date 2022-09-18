@@ -1,6 +1,6 @@
 @font-face {
      font-family: 'sunday-regular';
-     src: url("/fonts/sunday.otf");
+     src: url("./fonts/sunday.otf");
      font-weight: bold;
 }
 *{
